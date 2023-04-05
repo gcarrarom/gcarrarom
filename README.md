@@ -1,5 +1,5 @@
 ### Hi there 👋
-Don't forget to checkout my youtube channel: [FancyGUI](https://www.youtube.com/channel/UCqhi7EGTUyv1l4LlyLZbToA)
+Don't forget to checkout my youtube channel: [FancyGUI](https://fancywhale.link/github-fancygui-youtube-link)
 
 ![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCqhi7EGTUyv1l4LlyLZbToA) ![GitHub followers](https://img.shields.io/github/followers/gcarrarom?style=social)
 <!--
