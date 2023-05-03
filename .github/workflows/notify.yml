@@ -1,0 +1,16 @@
+name: notify-changes
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Shoutrrr
+        uses: containrrr/shoutrrr-action@v1
+        with:
+          url: ${{ secrets.SHOUTRRR_URL }}
+          title: changes ${{ github.sha }}
+          message: See changes at ${{ github.event.compare }}.
